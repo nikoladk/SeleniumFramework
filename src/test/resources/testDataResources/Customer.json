@@ -1,0 +1,38 @@
+[
+  {
+      "firstName": "Tony",
+    "lastName": "Montana",
+    "age": 44,
+    "emailAddress": "scarface@corp.com",
+    "address": {
+      "streetAddress": "Montecito 45",
+      "city": "Varna",
+      "postCode": "1000",
+      "state": "California",
+      "country": "Bulgaria",
+      "county": "California"
+    },
+    "phoneNumber": {
+      "home": "0887875621",
+      "mob": "093213721"
+    }
+  },
+  {
+    "firstName": "Sadio",
+    "lastName": "Mane",
+    "age": 27,
+    "emailAddress": "liverpool@ynwa.com",
+    "address": {
+      "streetAddress": "You'll never walk alone",
+      "city": "Liverpool",
+      "postCode": "122345",
+      "state": "Liverpool",
+      "country": "England",
+      "county": "Senegal"
+    },
+    "phoneNumber": {
+      "home": "312381321",
+      "mob": "312321323"
+    }
+  }
+]
